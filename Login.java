@@ -7,7 +7,7 @@ class Login extends JFrame{
 
   Login() {
 
-    setTitle("AuTOMATIC TELLER MACNINE");
+    setTitle("AUTOMATIC TELLER MACHNINE");
 
     setLayout(null);
 
